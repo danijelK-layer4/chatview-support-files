@@ -3,9 +3,10 @@ description: Utility library for the chatview and chatview_connect libraries, co
 version: 0.0.1
 repository: https://github.com/SimformSolutionsPvtLtd/chatview_utils
 issue_tracker: https://github.com/SimformSolutionsPvtLtd/chatview_utils/issues
+publish_to: none
 
 environment:
-  sdk: '>=3.4.0 <4.0.0'
+  sdk: ">=3.4.0 <4.0.0"
 
 dependencies:
   flutter:
