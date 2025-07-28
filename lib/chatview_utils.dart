@@ -1,4 +1,4 @@
-library chatview_utils;
+library chatview_utils_add_file;
 
 export 'src/controller/chat_controller.dart';
 export 'src/models/models.dart';

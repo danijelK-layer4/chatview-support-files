@@ -1,4 +1,4 @@
-name: chatview_utils
+name: chatview_utils_add_file
 description: Utility library for the chatview and chatview_connect libraries, containing shared type declarations. It should not be used directly.
 version: 0.0.1
 

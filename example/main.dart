@@ -1,6 +1,6 @@
 import 'dart:developer';
 
-import 'package:chatview_utils/chatview_utils.dart';
+import 'package:chatview_utils_add_file/chatview_utils.dart';
 
 void main() {
   // Create sample users
